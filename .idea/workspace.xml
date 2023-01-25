@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="587a3a55-e45d-44c0-9d1d-c5ae7db1aaad" name="Changes" comment="cards done">
-      <change beforePath="$PROJECT_DIR$/maine.css" beforeDir="false" afterPath="$PROJECT_DIR$/maine.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessone3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessone3/maine.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +44,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "HTML"
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -52,7 +59,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674248268477</updated>
-      <workItem from="1674248269713" duration="3768000" />
+      <workItem from="1674248269713" duration="4204000" />
+      <workItem from="1674321556341" duration="3000" />
+      <workItem from="1674321574399" duration="17000" />
+      <workItem from="1674321606342" duration="781000" />
+      <workItem from="1674587796578" duration="5492000" />
     </task>
     <task id="LOCAL-00001" summary="cards done">
       <created>1674317562786</created>
@@ -61,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674317562786</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="cards done">
+      <created>1674317963753</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674317963753</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
