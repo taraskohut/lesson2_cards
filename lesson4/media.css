@@ -1,0 +1,39 @@
+
+@media screen and (min-width: 0) and (max-width: 575px) {
+    .container{
+        width: 100vh;
+        height: 100vh;
+    }
+    .header{
+        background-color: #969393;
+        width: 100vh;
+        height: 30vh;
+
+    }
+    .inner{
+        display: block;
+        height: 70%;
+
+    }
+
+    .inner1 {
+        height: 40vh;
+        width: 100%;
+        background-color: #969393;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 8px;
+    }
+    .inner2{
+        height: 30vh;
+        width: 100%;
+        background-color: #969393;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 8px;
+        margin-left: 0;
+    }
+
+}

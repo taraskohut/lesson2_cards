@@ -36,7 +36,7 @@ p{
     width: 100px;
     height: 30px;
     background: lightblue;
-    border-radius: 10px;
+    border-radius: 25px;
     color: #424141;
     border: 1px #424141 solid;
 
@@ -69,8 +69,13 @@ p{
     font-size: 25px;
     color: orange;
 
-
-
+}
+.fa-solid:hover{
+    color: yellowgreen;
+    position: absolute;
+    top: 30px;
+    left: 37px;
+    transition: 0.7s;
 }
 .circul1{
     background-color: white;
@@ -89,3 +94,7 @@ p{
 .nht-chaild5{
     right: 120px;
 }
+
+
+
+
