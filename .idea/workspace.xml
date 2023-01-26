@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="587a3a55-e45d-44c0-9d1d-c5ae7db1aaad" name="Changes" comment="caard">
-      <change afterPath="$PROJECT_DIR$/lesson4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/maine.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/media.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="587a3a55-e45d-44c0-9d1d-c5ae7db1aaad" name="Changes" comment="media">
+      <change afterPath="$PROJECT_DIR$/lesson4/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/maine2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/media2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2_cards.iml" beforeDir="false" afterPath="$PROJECT_DIR$/html_lessons.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessone3/card2.css" beforeDir="false" afterPath="$PROJECT_DIR$/lessone3/card2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -71,7 +68,7 @@
       <workItem from="1674321606342" duration="781000" />
       <workItem from="1674587796578" duration="8458000" />
       <workItem from="1674676974948" duration="1440000" />
-      <workItem from="1674759655511" duration="3251000" />
+      <workItem from="1674759655511" duration="6912000" />
     </task>
     <task id="LOCAL-00001" summary="cards done">
       <created>1674317562786</created>
@@ -101,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674662688057</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="media">
+      <created>1674762969391</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674762969391</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +114,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cards done" />
     <MESSAGE value="caard" />
-    <option name="LAST_COMMIT_MESSAGE" value="caard" />
+    <MESSAGE value="media" />
+    <option name="LAST_COMMIT_MESSAGE" value="media" />
   </component>
 </project>
